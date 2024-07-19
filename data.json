@@ -1,0 +1,492 @@
+[
+    {
+        "url": "https://openi.nlm.nih.gov/imgs/512/84/4042565/PMC4042565_nutrients-06-02077-g001.png",
+        "segments": [
+            [
+                3,
+                0,
+                509,
+                300
+            ]
+        ],
+        "predicted_classes": [
+            "LineGraph"
+        ]
+    },
+    {
+        "url": "https://openi.nlm.nih.gov/imgs/512/84/4042565/PMC4042565_nutrients-06-02077-g002.png",
+        "segments": [
+            [
+                0,
+                0,
+                178,
+                134
+            ],
+            [
+                324,
+                1,
+                509,
+                134
+            ],
+            [
+                174,
+                1,
+                337,
+                134
+            ],
+            [
+                106,
+                0,
+                507,
+                134
+            ]
+        ],
+        "predicted_classes": [
+            "heatmap",
+            "LineGraph",
+            "heatmap",
+            "heatmap"
+        ]
+    },
+    {
+        "url": "https://openi.nlm.nih.gov/imgs/512/84/4042565/PMC4042565_nutrients-06-02077-g003.png",
+        "segments": [
+            [
+                1,
+                0,
+                511,
+                306
+            ],
+            [
+                382,
+                4,
+                511,
+                301
+            ]
+        ],
+        "predicted_classes": [
+            "scatterplot",
+            "illustrations"
+        ]
+    },
+    {
+        "url": "https://openi.nlm.nih.gov/imgs/512/84/4042565/PMC4042565_nutrients-06-02077-g004.png",
+        "segments": [
+            [
+                245,
+                4,
+                509,
+                183
+            ],
+            [
+                2,
+                1,
+                260,
+                307
+            ],
+            [
+                65,
+                0,
+                501,
+                307
+            ],
+            [
+                1,
+                4,
+                263,
+                157
+            ],
+            [
+                268,
+                191,
+                463,
+                307
+            ],
+            [
+                78,
+                182,
+                242,
+                306
+            ]
+        ],
+        "predicted_classes": [
+            "LineGraph",
+            "heatmap",
+            "LineGraph",
+            "LineGraph",
+            "barcharts",
+            "illustrations"
+        ]
+    },
+    {
+        "url": "https://openi.nlm.nih.gov/imgs/512/116/4042597/PMC4042597_1532-429X-16-S1-T6-1.png",
+        "segments": [
+            [
+                0,
+                0,
+                512,
+                253
+            ],
+            [
+                240,
+                12,
+                506,
+                253
+            ]
+        ],
+        "predicted_classes": [
+            "Radiology",
+            "Radiology"
+        ]
+    },
+    {
+        "url": "https://openi.nlm.nih.gov/imgs/512/116/4042597/PMC4042597_1532-429X-16-S1-T6-2.png",
+        "segments": [
+            [
+                0,
+                3,
+                511,
+                510
+            ]
+        ],
+        "predicted_classes": [
+            "Radiology"
+        ]
+    },
+    {
+        "url": "https://openi.nlm.nih.gov/imgs/512/83/4042564/PMC4042564_nutrients-06-01861-g001.png",
+        "segments": [
+            [
+                1,
+                0,
+                396,
+                383
+            ],
+            [
+                324,
+                5,
+                510,
+                269
+            ]
+        ],
+        "predicted_classes": [
+            "illustrations",
+            "illustrations"
+        ]
+    },
+    {
+        "url": "https://openi.nlm.nih.gov/imgs/512/83/4042564/PMC4042564_nutrients-06-01861-g002.png",
+        "segments": [
+            [
+                2,
+                0,
+                242,
+                260
+            ],
+            [
+                0,
+                262,
+                272,
+                413
+            ],
+            [
+                277,
+                253,
+                509,
+                408
+            ],
+            [
+                247,
+                6,
+                483,
+                257
+            ],
+            [
+                250,
+                56,
+                470,
+                188
+            ],
+            [
+                8,
+                234,
+                484,
+                414
+            ]
+        ],
+        "predicted_classes": [
+            "illustrations",
+            "illustrations",
+            "illustrations",
+            "illustrations",
+            "illustrations",
+            "3Dreconstruction"
+        ]
+    },
+    {
+        "url": "https://openi.nlm.nih.gov/imgs/512/83/4042564/PMC4042564_nutrients-06-01861-g003.png",
+        "segments": [
+            [
+                49,
+                1,
+                512,
+                329
+            ]
+        ],
+        "predicted_classes": [
+            "illustrations"
+        ]
+    },
+    {
+        "url": "https://openi.nlm.nih.gov/imgs/512/79/4042560/PMC4042560_nutrients-06-01931-g001.png",
+        "segments": [
+            [
+                0,
+                7,
+                508,
+                361
+            ]
+        ],
+        "predicted_classes": [
+            "scatterplot"
+        ]
+    },
+    {
+        "url": "https://openi.nlm.nih.gov/imgs/512/79/4042560/PMC4042560_nutrients-06-01931-g002.png",
+        "segments": [
+            [
+                335,
+                3,
+                511,
+                203
+            ],
+            [
+                0,
+                3,
+                383,
+                214
+            ],
+            [
+                125,
+                16,
+                323,
+                214
+            ],
+            [
+                3,
+                1,
+                192,
+                212
+            ]
+        ],
+        "predicted_classes": [
+            "illustrations",
+            "barcharts",
+            "illustrations",
+            "barcharts"
+        ]
+    },
+    {
+        "url": "https://openi.nlm.nih.gov/imgs/512/79/4042560/PMC4042560_nutrients-06-01931-g003.png",
+        "segments": [
+            [
+                1,
+                0,
+                428,
+                242
+            ],
+            [
+                331,
+                4,
+                510,
+                204
+            ]
+        ],
+        "predicted_classes": [
+            "barcharts",
+            "illustrations"
+        ]
+    },
+    {
+        "url": "https://openi.nlm.nih.gov/imgs/512/79/4042560/PMC4042560_nutrients-06-01931-g004.png",
+        "segments": [
+            [
+                0,
+                0,
+                434,
+                241
+            ],
+            [
+                334,
+                3,
+                509,
+                205
+            ]
+        ],
+        "predicted_classes": [
+            "barcharts",
+            "illustrations"
+        ]
+    },
+    {
+        "url": "https://openi.nlm.nih.gov/imgs/512/100/4042581/PMC4042581_nutrients-06-01981-g001.png",
+        "segments": [
+            [
+                0,
+                0,
+                498,
+                875
+            ],
+            [
+                20,
+                11,
+                496,
+                372
+            ],
+            [
+                6,
+                519,
+                493,
+                875
+            ]
+        ],
+        "predicted_classes": [
+            "LineGraph",
+            "boxcharts",
+            "illustrations"
+        ]
+    },
+    {
+        "url": "https://openi.nlm.nih.gov/imgs/512/100/4042581/PMC4042581_nutrients-06-01981-g002.png",
+        "segments": [
+            [
+                3,
+                7,
+                510,
+                357
+            ]
+        ],
+        "predicted_classes": [
+            "boxcharts"
+        ]
+    },
+    {
+        "url": "https://openi.nlm.nih.gov/imgs/512/110/4042591/PMC4042591_tran-4-97-g1.png",
+        "segments": [
+            [
+                2,
+                473,
+                505,
+                644
+            ],
+            [
+                0,
+                2,
+                503,
+                359
+            ],
+            [
+                3,
+                298,
+                509,
+                496
+            ],
+            [
+                0,
+                178,
+                508,
+                640
+            ],
+            [
+                0,
+                1,
+                475,
+                189
+            ]
+        ],
+        "predicted_classes": [
+            "heatmap",
+            "heatmap",
+            "heatmap",
+            "heatmap",
+            "heatmap"
+        ]
+    },
+    {
+        "url": "https://openi.nlm.nih.gov/imgs/512/99/4042580/PMC4042580_nutrients-06-02104-g001.png",
+        "segments": [
+            [
+                1,
+                0,
+                503,
+                345
+            ]
+        ],
+        "predicted_classes": [
+            "LineGraph"
+        ]
+    },
+    {
+        "url": "https://openi.nlm.nih.gov/imgs/512/99/4042580/PMC4042580_nutrients-06-02104-g003.png",
+        "segments": [
+            [
+                259,
+                1,
+                512,
+                206
+            ],
+            [
+                0,
+                2,
+                251,
+                204
+            ]
+        ],
+        "predicted_classes": [
+            "LineGraph",
+            "LineGraph"
+        ]
+    },
+    {
+        "url": "https://openi.nlm.nih.gov/imgs/512/94/4042575/PMC4042575_nutrients-06-01913-g001.png",
+        "segments": [
+            [
+                2,
+                0,
+                270,
+                257
+            ],
+            [
+                275,
+                7,
+                508,
+                260
+            ]
+        ],
+        "predicted_classes": [
+            "LineGraph",
+            "barcharts"
+        ]
+    },
+    {
+        "url": "https://openi.nlm.nih.gov/imgs/512/94/4042575/PMC4042575_nutrients-06-01913-g002.png",
+        "segments": [
+            [
+                1,
+                0,
+                252,
+                188
+            ],
+            [
+                266,
+                1,
+                509,
+                189
+            ]
+        ],
+        "predicted_classes": [
+            "barcharts",
+            "barcharts"
+        ]
+    }
+]

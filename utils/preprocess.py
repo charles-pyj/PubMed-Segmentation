@@ -1,9 +1,7 @@
-import os
 import pandas as pd
 import cv2
 import numpy as np
 import torch
-import model
 from scipy.io import loadmat
 import torch.nn as nn
 import torchvision.models as models
@@ -16,7 +14,7 @@ import cv2
 class_mean = loadmat("../figure_class_mean.mat")
 
 def preprocess(file):
-    print(f'file at: {file}')
+    #print(f'file at: {file}')
     im = cv2.imread(file)
 # Assuming 'mean_image_file' is the path to the mean image file, and 'im' is the image loaded using OpenCV# adjust this line based on the format of your mean image file
     mean_data = np.transpose(class_mean['mean'], (2, 3, 1, 0)).squeeze()
