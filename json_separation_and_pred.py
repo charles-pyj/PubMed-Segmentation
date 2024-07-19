@@ -183,7 +183,7 @@ def seg_and_pred(args):
         chunk_path = os.path.join(args.input_dir,chunk)
         urls = read_json_processed(chunk_path)
         info_list = []
-        for i in tqdm(urls[:10]):
+        for i in tqdm(urls):
             info = seg_and_pred_url(segmodel,classifymodel,i)
             info_list.append(info)
         out_chunk_path = os.path.join(args.output_dir,chunk)
